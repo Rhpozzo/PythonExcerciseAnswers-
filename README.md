@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,128">
-</p>
-
+<h1> My answers for : </h1>
 <p>
     <h2 align="center"> Python exercises at 4Geeks Academy (beta) </h2>
 </p>
